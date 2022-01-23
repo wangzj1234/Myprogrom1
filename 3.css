@@ -1,0 +1,9 @@
+body{background: #ddd;}
+div{width:350px;height:55px;margin:10px auto;font-size:24px;}
+.box1{background: #71a879;text-align: center;line-height: 50px;}
+.box2{background: #6a8bbc;text-align: center;line-height: 50px;}
+.box3{background: #FFFF6F;text-align: center;line-height: 50px;}
+a{width:350px;height:55px;margin:10px auto;font-size:16px;}
+p{width:350px;height:280px;font-size:16px;margin:1px auto;}
+h3{width:350px;height:55px;}
+
